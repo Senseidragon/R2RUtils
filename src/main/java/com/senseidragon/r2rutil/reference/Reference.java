@@ -15,7 +15,7 @@ public class Reference {
     public static final String MODID = "r2rutils";
     public static final String NAME = "R2R Utils";
     public static final String VERSION = "@VERSION@";
-    public static final String DEPENDENCIES = "required-after:Forge@[10.13.1.1230,)";
+    public static final String DEPENDENCIES = "required-after:Forge@[10.13.4.1614,)";
     public static final String MINECRAFT = "[1.7.10,)";
     public static final String HEADER = "Refugee to Regent Utilities configuration\n" +
             "-----------------------------------------\n" +
@@ -37,7 +37,7 @@ public class Reference {
     public static final String CLIENT_PROXY = "com.senseidragon.r2rutil.proxy.ClientProxy";
     public static final String SERVER_PROXY = "com.senseidragon.r2rutil.proxy.ServerProxy";
     public static final String WEB_HOME = "http://senseidragon.com/R2RUtil/";
-    public static int BUILD = 2;
+    public static int BUILD = 3;
     public static boolean isBlind = false;
     public static boolean isConfused = false;
     public static boolean isFatigued = true;
