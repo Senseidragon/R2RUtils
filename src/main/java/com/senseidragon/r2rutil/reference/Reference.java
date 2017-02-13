@@ -15,7 +15,7 @@ public class Reference {
     public static final String MODID = "r2rutils";
     public static final String NAME = "R2R Utils";
     public static final String VERSION = "@VERSION@";
-    public static final String DEPENDENCIES = "required-after:Forge@[10.13.1.1230,)";
+    public static final String DEPENDENCIES = "required-after:Forge@[10.13.2.1291,)";
     public static final String MINECRAFT = "[1.7.10,)";
     public static final String HEADER = "Refugee to Regent Utilities configuration\n" +
             "-----------------------------------------\n" +
