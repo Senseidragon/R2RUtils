@@ -1,0 +1,15 @@
+[
+	{
+		"modid":		"r2rutils",
+		"name":			"R2R Utilities",
+        "version":      "${version}",
+        "mcversion":    "${mcversion}",
+        "description":  "Utility mod for Refugee to Regent Challenge\nhttp://goo.gl/YYjFwY\n\nSpecial Thanks to Pahimar, for his Lets Mod series",
+        "url":          "https://mods.io/mods/1106-refugee-to-regent-utilities",
+        "authorList":   [
+            "Senseidragon"
+        ],
+        "credits":      "The players of the Refugee to Regent Challenge!",
+        "logoFile":     "/dragon.png"
+	}
+]
