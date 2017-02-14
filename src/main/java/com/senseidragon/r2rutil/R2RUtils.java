@@ -16,7 +16,6 @@ import com.senseidragon.r2rutil.reference.Reference;
 import com.senseidragon.r2rutil.utils.LogHelper;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.client.event.ConfigChangedEvent;
-import net.minecraftforge.fml.common.FMLCommonHandler;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
